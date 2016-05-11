@@ -14,7 +14,6 @@ namespace Lightspeed_Product_Management
             //string token = Authentication.Authenticate("admin_riverside@511tactical.com");
 
             List<StoreAuthentication> stores = APIManagement.InitializeAccounts();
-            //ProductManagement.CreateAndUpdateProducts(stores);
             SaleManagement.GetSales(stores);
             SaleManagement.ConsolidateStores(stores);
         }
