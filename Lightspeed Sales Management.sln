@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lightspeed Sales Management", "Lightspeed Product Management\Lightspeed Sales Management.csproj", "{4ED89DE9-AC1A-4F89-A8AB-288CF4E022F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lightspeed Sales Management", "Lightspeed Sales Management\Lightspeed Sales Management.csproj", "{4ED89DE9-AC1A-4F89-A8AB-288CF4E022F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
