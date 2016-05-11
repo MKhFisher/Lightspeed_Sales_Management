@@ -1,0 +1,21 @@
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Lightspeed_Sales_Management.exe.config
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Debug\Lightspeed Sales Management.csproj.ResolveComReference.cache
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\phantomjs.exe
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\phantomjs-license.txt
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Lightspeed_Sales_Management.exe
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Lightspeed_Sales_Management.pdb
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Newtonsoft.Json.dll
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\RestSharp.dll
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\WebDriver.dll
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\Newtonsoft.Json.xml
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\RestSharp.xml
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\bin\Debug\WebDriver.xml
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Debug\Lightspeed Sales Management.csprojResolveAssemblyReference.cache
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Debug\Lightspeed_Sales_Management.exe
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Debug\Lightspeed_Sales_Management.pdb

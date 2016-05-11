@@ -1,0 +1,9 @@
+\\boomi\c$\Share\Lightspeed\Sales Management\phantomjs.exe
+\\boomi\c$\Share\Lightspeed\Sales Management\phantomjs-license.txt
+\\boomi\c$\Share\Lightspeed\Sales Management\Lightspeed_Sales_Management.exe.config
+\\boomi\c$\Share\Lightspeed\Sales Management\Lightspeed_Sales_Management.exe
+\\boomi\c$\Share\Lightspeed\Sales Management\Lightspeed_Sales_Management.pdb
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Release\Lightspeed Sales Management.csprojResolveAssemblyReference.cache
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Release\Lightspeed Sales Management.csproj.ResolveComReference.cache
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Release\Lightspeed_Sales_Management.exe
+C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Release\Lightspeed_Sales_Management.pdb
