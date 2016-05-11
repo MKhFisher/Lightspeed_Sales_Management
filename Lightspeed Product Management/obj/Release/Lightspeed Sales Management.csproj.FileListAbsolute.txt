@@ -7,3 +7,6 @@ C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Light
 C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Release\Lightspeed Sales Management.csproj.ResolveComReference.cache
 C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Release\Lightspeed_Sales_Management.exe
 C:\Users\michaelf\Documents\GitHubVisualStudio\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Release\Lightspeed_Sales_Management.pdb
+C:\Users\michaelf\Source\Repos\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Release\Lightspeed Sales Management.csproj.ResolveComReference.cache
+C:\Users\michaelf\Source\Repos\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Release\Lightspeed_Sales_Management.exe
+C:\Users\michaelf\Source\Repos\Lightspeed_Sales_Management\Lightspeed Product Management\obj\Release\Lightspeed_Sales_Management.pdb
