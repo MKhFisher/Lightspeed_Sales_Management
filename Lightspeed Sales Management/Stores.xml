@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stores>
+    <store>
+        <AccountID>11:11:31001:1</AccountID>
+        <StoreName>Fresno</StoreName>
+        <APIKey>13cf12003f6dbea7883161d84538fa72e22b75c6</APIKey>
+        <Account>93799</Account>
+    </store>
+    <store>
+        <AccountID>11:11:31002:1</AccountID>
+        <StoreName>Irvine</StoreName>
+        <APIKey>13cf12003f6dbea7883161d84538fa72e22b75c6</APIKey>
+        <Account>93799</Account>
+    </store>
+    <store>
+        <AccountID>11:11:31003:1</AccountID>
+        <StoreName>Riverside</StoreName>
+        <APIKey>13cf12003f6dbea7883161d84538fa72e22b75c6</APIKey>
+        <Account>93799</Account>
+    </store>
+    <store>
+        <AccountID>11:11:31004:1</AccountID>
+        <StoreName>Las Vegas</StoreName>
+        <APIKey>13cf12003f6dbea7883161d84538fa72e22b75c6</APIKey>
+        <Account>93799</Account>
+    </store>
+    <store>
+        <AccountID>11:11:31005:1</AccountID>
+        <StoreName>Sacramento</StoreName>
+        <APIKey>13cf12003f6dbea7883161d84538fa72e22b75c6</APIKey>
+        <Account>93799</Account>
+    </store>
+    <store>
+        <AccountID>11:11:31006:1</AccountID>
+        <StoreName>Carson</StoreName>
+        <APIKey>13cf12003f6dbea7883161d84538fa72e22b75c6</APIKey>
+        <Account>93799</Account>
+    </store>
+    <store>
+        <AccountID>11:11:31007:1</AccountID>
+        <StoreName>San Diego</StoreName>
+        <APIKey>13cf12003f6dbea7883161d84538fa72e22b75c6</APIKey>
+        <Account>93799</Account>
+    </store>
+    <store>
+        <AccountID>11:11:31008:1</AccountID>
+        <StoreName>Salt Lake City</StoreName>
+        <APIKey>13cf12003f6dbea7883161d84538fa72e22b75c6</APIKey>
+        <Account>93799</Account>
+    </store>
+</stores>

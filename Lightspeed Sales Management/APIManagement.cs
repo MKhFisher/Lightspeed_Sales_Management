@@ -9,6 +9,7 @@ using System.Net;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace Lightspeed_Product_Management
 {
@@ -24,6 +25,25 @@ namespace Lightspeed_Product_Management
         public string accountID { get; set; }
     }
 
+    [XmlRoot("stores")]
+    public class Stores
+    {
+        [XmlElement("store")]
+        public List<Store> StoreList { get; set; }
+    }
+
+    public class Store
+    {
+        [XmlElement("AccountID")]
+        public string AccountID { get; set; }
+        [XmlElement("StoreName")]
+        public string StoreName { get; set; }
+        [XmlElement("APIKey")]
+        public string APIKey { get; set; }
+        [XmlElement("Account")]
+        public string Account { get; set; }
+    }
+
     class APIManagement
     {
         public static List<StoreAuthentication> InitializeAccounts()
@@ -37,6 +57,26 @@ namespace Lightspeed_Product_Management
             result.Add(new StoreAuthentication { account = "93799", token = "13cf12003f6dbea7883161d84538fa72e22b75c6", name = "Riverside", store = "31003", accountID = "11:11:31003:1" });
             result.Add(new StoreAuthentication { account = "93799", token = "13cf12003f6dbea7883161d84538fa72e22b75c6", name = "Las Vegas", store = "31004", accountID = "11:11:31004:1" });
             result.Add(new StoreAuthentication { account = "93799", token = "13cf12003f6dbea7883161d84538fa72e22b75c6", name = "Sacramento", store = "31005", accountID = "11:11:31005:1" });
+            result.Add(new StoreAuthentication { account = "93799", token = "13cf12003f6dbea7883161d84538fa72e22b75c6", name = "Carson", store = "31006", accountID = "11:11:31006:1" });
+
+            return result;
+        }
+
+        public static List<StoreAuthentication> InitializeAccounts(string storesXMLFile)
+        {
+            List<StoreAuthentication> result = new List<StoreAuthentication>();
+
+            XmlSerializer serializer = new XmlSerializer(typeof(Stores));
+            Stores stores;
+            using (TextReader reader = new StreamReader(storesXMLFile))
+            {
+                stores = (Stores)serializer.Deserialize(reader);
+            }
+
+            foreach (Store s in stores.StoreList)
+            {
+                result.Add(new StoreAuthentication { account = s.Account, token = s.APIKey, name = s.StoreName, store = s.AccountID.Split(':')[2], accountID = s.AccountID });
+            }
 
             return result;
         }
@@ -237,7 +277,7 @@ namespace Lightspeed_Product_Management
             }
             else
             {
-                EmailManagement.SendEmail(new string[] { "michaelf@511tactical.com" }, "[ERROR] Delete Extra ItemVendorNums", response.StatusCode.ToString(), null);
+                EmailManagement.SendImpersonationEmail(new string[] { "michaelf@511tactical.com" }, "[ERROR] Delete Extra ItemVendorNums", response.StatusCode.ToString(), null);
             }
         }
 
