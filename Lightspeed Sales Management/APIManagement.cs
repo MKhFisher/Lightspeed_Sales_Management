@@ -42,6 +42,8 @@ namespace Lightspeed_Product_Management
         public string APIKey { get; set; }
         [XmlElement("Account")]
         public string Account { get; set; }
+        [XmlElement("ShopID")]
+        public string ShopID { get; set; }
     }
 
     class APIManagement
